@@ -210,6 +210,10 @@
     <Compile Include="Models\Module.cs" />
     <Compile Include="Models\SearchHistory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\Implemenatations\CalculatorCostService.cs" />
+    <Compile Include="Services\Implemenatations\CityService.cs" />
+    <Compile Include="Services\Implemenatations\ModuleService.cs" />
+    <Compile Include="Services\Implemenatations\SearchHistoryService.cs" />
     <Compile Include="Services\Interfaces\ICalculatorCostService.cs" />
     <Compile Include="Services\Interfaces\ICityService.cs" />
     <Compile Include="Services\Interfaces\IModuleService.cs" />

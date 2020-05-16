@@ -13,7 +13,7 @@ namespace ProcesProdukcji.Services.Interfaces
         City GetCityByName(string cityName);
         OperationSuccessDTO<IList<City>> GetCities();
         OperationResultDTO UpdatCostOfWorkingHour(string cityName, double workingHourCost);
-        OperationResultDTO UpdateTransportCost(string cityNAme, double transportCost);
+        OperationResultDTO UpdateTransportCost(string cityName, double transportCost);
         OperationResultDTO AddCity(City city);
         OperationResultDTO DeleteCity(String cityName);
     }
