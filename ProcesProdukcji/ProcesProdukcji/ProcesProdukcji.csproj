@@ -214,6 +214,7 @@
     <Compile Include="Services\Implemenatations\CityService.cs" />
     <Compile Include="Services\Implemenatations\ModuleService.cs" />
     <Compile Include="Services\Implemenatations\SearchHistoryService.cs" />
+    <Compile Include="Services\Implemenatations\ShowResultService.cs" />
     <Compile Include="Services\Interfaces\ICalculatorCostService.cs" />
     <Compile Include="Services\Interfaces\ICityService.cs" />
     <Compile Include="Services\Interfaces\IModuleService.cs" />
